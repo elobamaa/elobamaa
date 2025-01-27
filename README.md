@@ -23,12 +23,3 @@ Soy un apasionado del **mundo Habbo** y la tecnología, con un enfoque especial 
 ### 🌐 **Contactos y Redes Sociales**
 - **Discord:** [@elobama.]
   
-### 📈 **Mis Estadísticas**
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=elobamaa&show_icons=true&theme=radical)
-  
-### 📚 **Lenguajes Más Usados**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elobamaa&layout=compact)
-
-### 🎮 **Contribuciones y Proyectos**
-¡Echa un vistazo a mis contribuciones más recientes en GitHub!  
-![Snake animation](https://github.com/elobamaa/elobamaa/blob/output/github-contribution-grid-snake.svg)

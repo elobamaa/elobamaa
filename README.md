@@ -12,7 +12,7 @@ Soy un apasionado del **mundo Habbo** y la tecnología, con un enfoque especial 
 
 ### 🌟 **Proyectos Destacados**
 - **[MansoryCodes](https://mansorycodes.eu)**: 🚀 Tu lugar para obtener **recursos de Habbo**, **templates HTML**, y **pedidos especiales**.
-- **[Habbo Hotel](https://habbin.eu)**: 🏨 Mi pasión por el mundo virtual y los desarrollos de la comunidad Habbo.
+- **[Habbin Hotel](https://habbin.eu)**: 🏨 Mi pasión por el mundo virtual y los desarrollos de la comunidad Habbo.
 
 ### 🔧 **¿Qué hago?**
 - Desarrollo **templates HTML5** para sitios web.

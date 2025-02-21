@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **[Elobama]**
+# 👋 ¡Hola! Soy **Elobama**
 
 Soy un apasionado del **mundo Habbo** y la tecnología, con un enfoque especial en **Java**, **HTML5**, **Node.js**, y mucho más. 🌐 Mi propósito es crear recursos útiles y desarrollar proyectos emocionantes para la comunidad. 🚀
 
